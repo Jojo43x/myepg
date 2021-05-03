@@ -1,0 +1,119 @@
+            DE / AT
+WELT HD                        <channel update="i" site="m.tvtoday.de" site_id="welt" xmltv_id="WELT">WELT HD</channel>
+n-tv HD                        <channel update="i" site="m.tvtoday.de" site_id="ntv" xmltv_id="n-tv">n-tv HD</channel>
+oe24.TV HD                     <channel update="i" site="tvheute.at" site_id="oe24tv-programm" xmltv_id="oe24tv">oe24.TV HD</channel>
+Discovery HD                   <channel update="i" site="m.tvtoday.de" site_id="hddis" xmltv_id="Discovery HD">Discovery HD</channel>
+History HD                     <channel update="i" site="m.tvtoday.de" site_id="hishd" xmltv_id="HISTORY HD">History HD</channel>
+NatGeo HD                      <channel update="i" site="m.tvtoday.de" site_id="n-ghd" xmltv_id="Nat Geo HD">NatGeo HD</channel>
+Nat Geo Wild HD                <channel update="i" site="m.tvtoday.de" site_id="welt" xmltv_id="NAT GEO WILD">Nat Geo Wild HD</channel>
+Kabel Eins Doku HD             <channel update="i" site="m.tvtoday.de" site_id="k1doku" xmltv_id="kabel eins Doku">Kabel Eins Doku HD</channel>
+N24 DOKU                       <channel update="i" site="m.tvtoday.de" site_id="n24doku" xmltv_id="N24 Doku">N24 DOKU</channel>
+ZDFinfo HD                     <channel update="i" site="m.tvtoday.de" site_id="zinfo" xmltv_id="ZDFinfo">ZDFinfo HD</channel>
+zdf_neo HD                     <channel update="i" site="m.tvtoday.de" site_id="2neo" xmltv_id="ZDFneo">zdf_neo HD</channel>
+Spiegel Geschichte HD          <channel update="i" site="m.tvtoday.de" site_id="sp-ge" xmltv_id="SPIEGEL Geschichte">Spiegel Geschichte HD</channel>
+Spiegel TV Wissen              <channel update="i" site="m.tvtoday.de" site_id="sptvw" xmltv_id="SPIEGEL TV WISSEN">Spiegel TV Wissen</channel>
+Crime Investigation            <channel update="i" site="m.tvtoday.de" site_id="crin" xmltv_id="Crime + Investigation">Crime Investigation</channel>
+kabel eins HD                  <channel update="i" site="m.tvtoday.de" site_id="k1" xmltv_id="kabel eins">kabel eins HD</channel>
+kabel eins classics            <channel update="i" site="m.tvtoday.de" site_id="k1cla" xmltv_id="kabel eins CLASSICS">kabel eins classics</channel>
+VOX HD                         <channel update="i" site="m.tvtoday.de" site_id="vox" xmltv_id="VOX">VOX HD</channel>
+SAT.1 HD                       <channel update="i" site="m.tvtoday.de" site_id="sat1" xmltv_id="SAT.1">SAT.1 HD</channel>
+SAT.1 Gold HD                  <channel update="i" site="m.tvtoday.de" site_id="sat1g" xmltv_id="SAT.1 Gold">SAT.1 Gold HD</channel>
+SAT.1 emotions                 <channel update="i" site="m.tvtoday.de" site_id="sat1e" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
+ProSieben HD                   <channel update="i" site="m.tvtoday.de" site_id="pro7" xmltv_id="ProSieben">ProSieben HD</channel>
+Pro7 MAXX HD                   <channel update="i" site="m.tvtoday.de" site_id="pro7m" xmltv_id="ProSieben MAXX">Pro7 MAXX HD</channel>
+RTL HD                         <channel update="i" site="m.tvtoday.de" site_id="rtl" xmltv_id="RTL">RTL HD</channel>
+RTL2 HD                        <channel update="i" site="m.tvtoday.de" site_id="rtl2" xmltv_id="RTL II">RTL2 HD</channel>
+NITRO HD                       <channel update="i" site="m.tvtoday.de" site_id="rtl-n" xmltv_id="NITRO">NITRO HD</channel>
+SIXX HD                        <channel update="i" site="m.tvtoday.de" site_id="sixx" xmltv_id="sixx">SIXX HD</channel>
+ORF1 HD                        <channel update="i" site="tvheute.at" site_id="orf1-programm" xmltv_id="ORF1">ORF1 HD</channel>
+ORF2 HD                        <channel update="i" site="tvheute.at" site_id="orf2-programm" xmltv_id="ORF2">ORF2 HD</channel>
+ORF 3 HD                       <channel update="i" site="tvheute.at" site_id="orf_iii-programm" xmltv_id="ORF III">ORF 3 HD</channel>
+ATV HD                         <channel update="i" site="tvheute.at" site_id="atv-programm" xmltv_id="ATV">ATV HD</channel>
+ATV2                           <channel update="i" site="tvheute.at" site_id="atv2-programm" xmltv_id="ATV2">ATV2</channel>
+Sky One HD                     <channel update="i" site="m.tvtoday.de" site_id="sky1" xmltv_id="Sky 1">Sky One HD</channel>
+Sky Atlantic HD                <channel update="i" site="m.tvtoday.de" site_id="skyat" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+Sky Crime HD                   <channel update="i" site="m.tvtoday.de" site_id="sky-cr" xmltv_id="Sky Crime">Sky Crime HD</channel>
+Sky Krimi HD                   <channel update="i" site="m.tvtoday.de" site_id="sky-k" xmltv_id="Sky Krimi">Sky Krimi HD</channel>
+Sky Comedy HD                  <channel update="i" site="m.tvtoday.de" site_id="sky-co" xmltv_id="Sky Comedy">Sky Comedy HD</channel>
+Sky Cinema Premieren HD        <channel update="i" site="m.tvtoday.de" site_id="cin" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren HD</channel>
+Sky Cinema Premieren +24 HD    <channel update="i" site="m.tvtoday.de" site_id="cin24" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24 HD</channel>
+Sky Cinema DC Helden HD        <channel update="i" site="sky.de" site_id="872" xmltv_id="Sky Cinema DC Helden HD">Sky Cinema DC Helden HD</channel>
+Sky Cinema Action HD           <channel update="i" site="m.tvtoday.de" site_id="sky-a" xmltv_id="Sky Action">Sky Cinema Action HD</channel>
+Sky Cinema Thriller HD         <channel update="i" site="m.tvtoday.de" site_id="skyth" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+Sky Cinema Best Of HD          <channel update="i" site="m.tvtoday.de" site_id="sky-h" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of HD</channel>
+Sky Cinema Classics            <channel update="i" site="m.tvtoday.de" site_id="sky-n" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+Sky Cinema Family HD           <channel update="i" site="m.tvtoday.de" site_id="sky-f" xmltv_id="Sky Family">Sky Cinema Family HD</channel>
+Sky Cinema Fun                 <channel update="i" site="m.tvtoday.de" site_id="sky-c" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+Sky Serien Shows HD            <channel update="i" site="sky.de" site_id="742" xmltv_id="Sky Serien and Shows HD">Sky Serien Shows HD</channel>
+SYFY HD                        <channel update="i" site="m.tvtoday.de" site_id="scifi" xmltv_id="Syfy">SYFY HD</channel>
+13th Street HD                 <channel update="i" site="m.tvtoday.de" site_id="13th" xmltv_id="13TH STREET">13th Street HD</channel>
+TNT Film HD                    <channel update="i" site="m.tvtoday.de" site_id="tnt-f" xmltv_id="TNT Film">TNT Film HD</channel>
+TNT Comedy HD                  <channel update="i" site="m.tvtoday.de" site_id="tnt-c" xmltv_id="TNT Comedy">TNT Comedy HD</channel>
+TNT Serie HD                   <channel update="i" site="m.tvtoday.de" site_id="tnt-s" xmltv_id="TNT Serie">TNT Serie HD</channel>
+Fox HD                         <channel update="i" site="m.tvtoday.de" site_id="fox" xmltv_id="FOX">Fox HD</channel>
+Universal TV HD                <channel update="i" site="m.tvtoday.de" site_id="unive" xmltv_id="Universal Channel HD">Universal TV HD</channel>
+Kinowelt TV                    <channel update="i" site="m.tvtoday.de" site_id="kinow" xmltv_id="KinoweltTV">Kinowelt TV</channel>
+Romance TV                     <channel update="i" site="m.tvtoday.de" site_id="rom" xmltv_id="Romance TV">Romance TV</channel>
+Disney Channel HD              <channel update="i" site="m.tvtoday.de" site_id="disne" xmltv_id="Disney Channel">Disney Channel HD</channel>               
+Comedy Central HD              <channel update="i" site="m.tvtoday.de" site_id="cc" xmltv_id="COMEDY CENTRAL">Comedy Central HD</channel>       
+KiKA HD                        <channel update="i" site="m.tvtoday.de" site_id="kika" xmltv_id="KiKA">KiKA HD</channel>      
+SUPER RTL HD                   <channel update="i" site="m.tvtoday.de" site_id="super" xmltv_id="SUPER RTL">SUPER RTL HD</channel>     
+Cartoon Network                <channel update="i" site="m.tvtoday.de" site_id="c-net" xmltv_id="Cartoon Network">Cartoon Network</channel>         
+Nicktoons                      <channel update="i" site="m.tvtoday.de" site_id="nickt" xmltv_id="Nicktoons">Nicktoons</channel>
+Junior                         <channel update="i" site="m.tvtoday.de" site_id="junio" xmltv_id="Junior">Junior</channel>           
+
+            SK / CZ
+Markiza                        <channel update="i" site="tv.sms.cz.m" site_id="Mark%EDza" xmltv_id="Markiza">Markiza</channel>      
+JOJ                            <channel update="i" site="tv.sms.cz.m" site_id="JOJ" xmltv_id="JOJ">JOJ</channel>
+JOJ Plus                       <channel update="i" site="tv.sms.cz.m" site_id="JOJ+Plus" xmltv_id="JOJ Plus">JOJ Plus</channel>
+JOJ Family                     <channel update="i" site="tv.sms.cz.m" site_id="JOJ+Family" xmltv_id="JOJ Family">JOJ Family</channel>
+Nova Cinema                    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Cinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
+Nova Action                    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Action" xmltv_id="Nova Action">Nova Action</channel>
+Nova Gold                      <channel update="i" site="tv.sms.cz.m" site_id="Nova+Gold" xmltv_id="Nova Gold">Nova Gold</channel>
+Nova 2                         <channel update="i" site="tv.sms.cz.m" site_id="Nova+2" xmltv_id="Nova 2">Nova 2</channel>
+Nova                           <channel update="i" site="tv.sms.cz.m" site_id="Nova" xmltv_id="Nova">Nova</channel>
+WAU                            <channel update="i" site="tv.sms.cz.m" site_id="WAU" xmltv_id="WAU">WAU</channel>
+STV2                           <channel update="i" site="tv.sms.cz.m" site_id="STV2" xmltv_id="STV2">STV2</channel>
+Jojko                          <channel update="i" site="tv.sms.cz.m" site_id="Jojko" xmltv_id="Jojko">Jojko</channel>
+
+
+
+CT 1 HD                        <channel update="i" site="tv.sms.cz.m" site_id="%C8T1" xmltv_id="CT1">CT 1 HD</channel>
+CT 2 HD                        <channel update="i" site="tv.sms.cz.m" site_id="%C8T2" xmltv_id="CT2">CT 2 HD</channel>
+STV1                           <channel update="i" site="tv.sms.cz.m" site_id="STV1" xmltv_id="STV1">STV1</channel>
+TA3                            <channel update="i" site="tv.sms.cz.m" site_id="TA3" xmltv_id="TA3">TA3</channel>
+AMC                            <channel update="i" site="tv.sms.cz.m" site_id="AMC" xmltv_id="AMC">AMC</channel>
+AXN                            <channel update="i" site="tv.sms.cz.m" site_id="AXN" xmltv_id="AXN">AXN</channel>
+AXN White                      <channel update="i" site="tv.sms.cz.m" site_id="AXN+White" xmltv_id="AXN White">AXN White</channel>
+AXN BLACK                      <channel update="i" site="tv.sms.cz.m" site_id="AXN+Black" xmltv_id="AXN Black">AXN BLACK</channel>
+CINEMAX                        <channel update="i" site="tv.sms.cz.m" site_id="Cinemax" xmltv_id="Cinemax">CINEMAX</channel>
+CINEMAX 2                      <channel update="i" site="tv.sms.cz.m" site_id="Cinemax2" xmltv_id="Cinemax2">CINEMAX 2</channel>
+CS FILM                        <channel update="i" site="tv.sms.cz.m" site_id="CS+Film" xmltv_id="CS Film">CS FILM</channel>
+CS MINI/CS FILM/HORROR FILM    <channel update="i" site="tv.sms.cz.m" site_id="CS+Horror" xmltv_id="CS Horror">CS MINI/CS FILM/HORROR FILM</channel>
+DAJTO                          <channel update="i" site="tv.sms.cz.m" site_id="TV+DAJTO" xmltv_id="TV DAJTO">DAJTO</channel>
+FILM Plus                      <channel update="i" site="tv.sms.cz.m" site_id="Film%2B" xmltv_id="Film+">FILM Plus</channel>
+FILM BOX                       <channel update="i" site="tv.sms.cz.m" site_id="Filmbox" xmltv_id="Filmbox">FILM BOX</channel>
+FILMBOX PLUS                   <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Plus" xmltv_id="Filmbox Plus">FILMBOX PLUS</channel>
+FILMBOX EXTRA HD               <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Extra+HD" xmltv_id="Filmbox Extra HD">FILMBOX EXTRA HD</channel>
+FILMBOX FAMILY                 <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Family" xmltv_id="Filmbox Family">FILMBOX FAMILY</channel>
+FILMBOX PREMIUM                <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Premium" xmltv_id="Filmbox Premium">FILMBOX PREMIUM</channel>
+FILM europe                    <channel update="i" site="tv.sms.cz.m" site_id="Film+Europe" xmltv_id="Film Europe">FILM europe</channel>
+HBO                            <channel update="i" site="tv.sms.cz.m" site_id="HBO" xmltv_id="HBO">HBO</channel>
+HBO 2                          <channel update="i" site="tv.sms.cz.m" site_id="HBO2" xmltv_id="HBO2">HBO 2</channel>
+HBO 3                          <channel update="i" site="tv.sms.cz.m" site_id="HBO+Comedy" xmltv_id="HBO Comedy">HBO 3</channel>
+PRIMA                          <channel update="i" site="tv.sms.cz.m" site_id="Prima" xmltv_id="Prima">PRIMA</channel> 
+PRIMA COOL                     <channel update="i" site="tv.sms.cz.m" site_id="Prima+Cool" xmltv_id="Prima Cool">PRIMA COOL</channel>
+PRIMA MAX                      <channel update="i" site="tv.sms.cz.m" site_id="Prima+MAX" xmltv_id="Prima Max">PRIMA MAX</channel>
+PRIMA ZOOM                     <channel update="i" site="tv.sms.cz.m" site_id="Prima+ZOOM" xmltv_id="Prima ZOOM">PRIMA ZOOM</channel>
+SPEKTRUM                       <channel update="i" site="tv.sms.cz.m" site_id="Spektrum" xmltv_id="Spektrum">SPEKTRUM</channel>
+SPEKTRUM HOME                  <channel update="i" site="tv.sms.cz.m" site_id="Spektrum+Home" xmltv_id="Spektrum Home">SPEKTRUM HOME</channel>
+ANIMAL PLANET                  <channel update="i" site="tv.sms.cz.m" site_id="AnimalPlanet" xmltv_id="AnimalPlanet">ANIMAL PLANET</channel>
+DISCOVERY                      <channel update="i" site="tv.sms.cz.m" site_id="Discovery" xmltv_id="Discovery">DISCOVERY</channel>
+DISCOVERY SCIENCE              <channel update="i" site="tv.sms.cz.m" site_id="Discovery+Science" xmltv_id="Discovery Science">DISCOVERY SCIENCE</channel>
+DISNEY CHANNEL                 <channel update="i" site="tv.sms.cz.m" site_id="Disney+Channel" xmltv_id="Disney Channel">DISNEY CHANNEL</channel>
+HISTORY HD                     <channel update="i" site="tv.sms.cz.m" site_id="History+Channel" xmltv_id="History Channel">HISTORY HD</channel>
+NAT GEO                        <channel update="i" site="tv.sms.cz.m" site_id="National+Geographic" xmltv_id="National Geographic">NAT GEO</channel>
+NAT GEO WILD                   <channel update="i" site="tv.sms.cz.m" site_id="National+Geographic+Wild" xmltv_id="National Geographic Wild">NAT GEO WILD</channel>
+VIASAT EXPLORER                <channel update="i" site="tv.sms.cz.m" site_id="Viasat+Explorer" xmltv_id="Viasat Explorer">VIASAT EXPLORER</channel>
+VIASAT HISTORY                 <channel update="i" site="tv.sms.cz.m" site_id="Viasat+History" xmltv_id="Viasat History">VIASAT HISTORY</channel>
+VIASAT NATURE                  <channel update="i" site="tv.sms.cz.m" site_id="Viasat+Nature" xmltv_id="Viasat Nature">VIASAT NATURE</channel>
